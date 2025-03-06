@@ -660,7 +660,6 @@ for file_name in os.listdir(folder_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             text = file.read()
         
-        print("alive")
         # Clean the text by removing the unwanted statement
         text = clean_text(text)
 
