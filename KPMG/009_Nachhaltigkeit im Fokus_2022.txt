@@ -1,0 +1,63 @@
+KPMG Cloud Monitor 2022: Nachhaltigkeit im Fokus 
+
+
+
+•	90 Prozent der befragten Unternehmen in Österreich schreiben Cloud Computing einen Mehrwert bei der Reduzierung ihrer CO2-Emissionen zu.
+
+•	86 Prozent geben an, durch den Einsatz von Cloud Computing ihre Kosten reduzieren zu wollen.
+
+•	Bis 2025 wollen österreichische Unternehmen, die bereits Cloud-Lösungen nutzen, 66 Prozent ihrer produktiven Anwendungen in der Cloud betreiben.
+
+Wien, am 13. Juni 2022: Die KPMG Umfrage „Cloud Monitor“ wurde zum dritten Mal unter österreichischen Unternehmen durchgeführt. Die Studie skizziert den Reifegrad der Cloud-Nutzung und zeigt aktuelle Entwicklungen, Herausforderungen sowie Trends auf. Die Erkenntnisse beruhen auf Rückmeldungen von 252 österreichischen Unternehmen. 
+
+Cloud Computing zur Erreichung von Nachhaltigkeitszielen
+Das Thema Cloud Computing ist bei heimischen Unternehmen weiterhin heiß begehrt: Drei Viertel (71 Prozent) der Unternehmen arbeiten täglich in der Cloud – eine Steigerung von acht Prozentpunkten im Vorjahresvergleich. Unternehmen haben den Mehrwert von Cloud-Lösungen zur Unterstützung ihrer Nachhaltigkeitsziele erkannt und bei mehr als jedem zweiten Nutzer ist die Reduzierung des eigenen CO2-Fußabdrucks in der Cloud-Strategie verankert.
+
+,,Vielen Unternehmen ist bewusst geworden, dass die Cloud eine fundamentale Technologie ist, um Nachhaltigkeitsziele zu erreichen. Denn durch maßgeschneidertes Sizing der benötigten Infrastruktur, erlauben die Cloud-Technologien notwendige Kapazitäten nach Bedarf bereit zu stellen“, sagt KPMG Partner Michael Schirmbrand. So werden als hauptsächliche Gründe der Cloud-Nutzung die Kostenreduzierung (86 Prozent) sowie die Reduktion der CO2-Emissionen genannt (66 Prozent).
+
+Immer mehr cloudbasierte Unternehmen 
+42 Prozent der Cloud-Nutzer betreiben ihre produktiven Anwendungen aus der Cloud. Für das Jahr 2025 setzen sie diese Ziffer auf 66 Prozent. Zudem geben sieben Prozent der bestehenden Nutzer an, im Jahr 2025 eine Cloud-Nutzung zwischen 91 und 100 Prozent in ihren IT-Systemen zu erreichen. „Im Idealfall sollte es eine eigene Einheit, wie etwa ein Cloud Center of Excellence geben, welches diese Digitalisierungsziele vorantreibt. Das Ziel wäre es, dass in diesen Teams neben Cloud-Kenntnissen auch Know-how aus IT-Projektmanagement oder IT-Sicherheit bereitgestellt werden“, sagt KPMG Director Wolfgang Schramm zu Cloud-Transformationszielen. 
+
+Public Cloud-Start mit Hindernissen 
+Lediglich 16 Prozent der Cloud-Nutzer geben an, dass der Start in die Public Cloud problemlos erfolgt ist. Insbesondere Compliance-Anforderungen (52 Prozent), Security-Anforderungen (60 Prozent) sowie der Fachkräftemangel (40 Prozent) erschweren den Integrationsprozess. 
+„Es führt kein Weg am Aufbau von entsprechendem Know-how vorbei, um wettbewerbsfähig zu bleiben. Die Nachfrage an gut ausgebildeten Cloud-Expertinnen und -Experten wird immer größer“, so KPMG Director Christian Frühwirth. 
+
+Bei kritischen Anwendungen oder Informationen nutzen nur 17 Prozent der Unternehmen ihre Public Cloud-Lösungen. Dennoch ist eine positive Resonanz auf Seiten der Mitarbeiterinnen und Mitarbeiter zu beobachten: „Durch das pandemiebedingte Arbeiten begleiten Cloud-Lösungen Mitarbeiterinnen und Mitarbeiter täglich und daher haben sie verstärkt an Akzeptanz gewonnen. Egal ob die Entscheidung der Unternehmen auf die Private oder Public Cloud fällt – ohne Cloud Computing wird kein Weg an einer IT-Modernisierung vorbeiführen“, sagt KPMG Senior Manager Wolfgang Zeitler. 
+
+
+Weitere Ergebnisse:
+
+•	62 Prozent nennen die Cloud-Nutzung als Ziel zur Durchführung von agilen Projekten.
+
+•	46 Prozent sehen Cloud-Technologien als Enabler für die Entwicklung digitaler Geschäftsmodelle.
+
+•	Das Thema Security spielt weiterhin eine zentrale Rolle bei der Cloud-Nutzung: 43 Prozent waren in den vergangenen zwölf Monaten Ransomware-Attacken ausgesetzt.
+
+•	57 Prozent meldeten in den vergangenen zwölf Monaten Ausfallzeiten ihrer Cloud-Lösungen. 
+
+•	Bei 77 Prozent treibt die IT-Abteilung die Cloud-Transformation voran. 
+
+Mehr Informationen unter kpmg.at/cloud 
+_______________________________________
+Über die Studie
+Der Cloud-Monitor basiert auf einer repräsentativen Unternehmensbefragung, die seit 2020 jährlich veröffentlicht wird. Die dem Cloud Monitor 2022 zugrunde liegende Befragung erfolgte im Zeitraum Februar bis März 2022 mittels telefonischer Interviews. Die Stichprobe umfasst 252 Unternehmen mit mindestens 20 Beschäftigten in Österreich. Bei den Befragten handelt es sich ausschließlich um Führungspersonen mit Aufgaben aus dem Organisationsbereich Informationstechnologie (IT) oder um Mitglieder der Geschäftsführung bzw des Vorstands. Durch Schichtung der Zufallsstichprobe wird gewährleistet, dass Unternehmen aus unterschiedlichen Branchen und Größenklassen in ausreichender Anzahl in der Stichprobe vertreten sind, um statistisch belastbare Auswertungen zu ermöglichen. 
+ 
+Über KPMG 
+Die Initialen von KPMG stehen für die Gründerväter der Gesellschaft: Klynveld, Peat, Marwick und Goerdeler. Als Verbund rechtlich selbstständiger, nationaler Mitgliedsfirmen ist KPMG International mit ca 236.000 Mitarbeitern in 145 Ländern eines der größten Wirtschaftsprüfungs- und Beratungsunternehmen weltweit.
+In Österreich ist KPMG eine der führenden Gruppen in diesem Geschäftsfeld und ist mit mehr als 1.800 Mitarbeitern an 8 Standorten präsent. Unsere Leistungen sind in die Geschäftsbereiche Prüfung (Audit) und Beratung (Tax, Law und Advisory) unterteilt. Im Mittelpunkt von Audit steht die Prüfung von Jahres- und Konzernabschlüssen. Tax steht für die steuerberatende¬ und Law für die rechtsberatende Tätigkeit von KPMG. Der Bereich Advisory bündelt das fachliche Know-how zu betriebswirtschaftlichen, regulatorischen und transaktionsorientierten Themen. 
+www.kpmg.at 
+
+
+Rückfragehinweis:
+KPMG Austria GmbH
+Gözde Yaylali
+Porzellangasse 51
+1090 Wien
+T +43 1 31332-3014
+gyaylali@kpmg.at 
+
+	
+
+© 2022 KPMG Austria GmbH Wirtschaftsprüfungs- und Steuerberatungsgesellschaft, eine österreichische Gesellschaft mit beschränkter Haftung und ein Mitglied der globalen KPMG Organisation unabhängiger Mitgliedsfirmen, die KPMG International Limited, einer private English company limited by guarantee, angeschlossen sind. Alle Rechte vorbehalten.
+
+

@@ -1,0 +1,55 @@
+
+KPMG Studie: Staatliche Cyber-Akteure am Vormarsch
+
+Wien, 3. Mai 2022: Der Fachkräftemangel, Ransomware-Attacken und staatliche Angreifer gehören zu den aktuellsten Herausforderungen für Unternehmen in puncto Cyber Security. Zu diesem Ergebnis kommt die KPMG Studie „Cyber Security in Österreich 2022“.
+
+Bereits zum siebten Mal veröffentlicht KPMG die Studie „Cyber Security in Österreich“ gemeinsam mit dem Kompetenzzentrum Sicheres Österreich (KSÖ). Die Studie bietet aktuelle Zahlen einer Umfrage, an der sich rund 550 österreichische Unternehmen beteiligt haben. Ergänzt wird die Publikation durch Analysen und Experteninterviews.
+
+Konfliktort Cyberspace 
+Hybride Konflikte wirken sich auch in Österreich auf Unternehmen aus. Es kommt zum Einsatz von speziell erstellter Schadsoftware, den sogenannten APTs (Advanced Persistent Threats) bzw State Sponsored Attacks. Für mehr als die Hälfte der österreichischen Unternehmen (52 Prozent) haben APTs an Bedeutung gewonnen, für knapp ein Viertel (22 Prozent) gehören sie mittlerweile zum Tagesgeschäft. Die Umfrage wurde vor Ausbruch des Ukraine-Russland-Konfliktes durchgeführt. Es ist daher mit einer Verschärfung der Bedrohungslage im Cyberspace zu rechnen. „Neuste Schadsoftware-Beispiele sind etwa Hermetic Viper, AcidRain oder Doublezero“, berichtet KPMG Partner Andreas Tomek. „Sie sind momentan noch auf den aktuellen Konfliktherd begrenzt, werden aber aufgrund ihrer Unkontrollierbarkeit bald überall auftauchen.“ 
+
+Bedrohung durch Ransomware
+Im letzten Jahr waren 14 Prozent der österreichischen Unternehmen direkt von Ransomware-Angriffen betroffen. Die Cyber Crime-Szene professionalisiert sich durch Geschäftsmodelle wie „Ransomware as a Service“. „Mittlerweile beinhaltet der Großteil dieser Attacken neben der Dateiverschlüsselung und Erpressung auch den Diebstahl von Unternehmensdaten und der Drohung, den Zugriff an Trittbrettfahrer weiter zu verkaufen“, so Robert Lamprecht. Allein im Jahr 2021 erhöhten sich die Anzahl der Ransomware-Angriffe laut World Economic Forum weltweit um 435 Prozent. In Österreich beurteilt bereits jedes zweite Unternehmen (49 Prozent) diese Thematiken als besondere Herausforderung. „Cyberbedrohungen sind heute ein Teil der Digitalisierung“, ergänzt Lamprecht.
+
+Dauerbrenner Fachkräftemangel
+Der Mangel an qualifiziertem Cyber Security-Personal bereitet der Wirtschaft Kopfzerbrechen. Dreiviertel der Unternehmen (74 Prozent) gibt an, Schwierigkeiten beim Rekrutieren von IT und Security-Experten zu haben. Fast die Hälfte der Unternehmen (43 Prozent) benötigt für die Suche eines Mitarbeiters mindestens vier bis sechs Monate. Das Rennen um die besten Fachkräfte verdeutlicht folgende Zahl: 40 Prozent der Befragten werben aktiv Sicherheitsexperten von anderen Unternehmen ab. Jedes vierte Unternehmen (26 Prozent) in Österreich berichtet außerdem, dass es leichter ist, IT-Experten im europäischen Ausland zu rekrutieren als in Österreich.
+
+Krisenfestigkeit zeigen 
+Jedes dritte Unternehmen (36 Prozent) sieht pessimistisch in die Zukunft und erwartet in den nächsten zwölf Monaten Verschlechterungen im Cyber Security-Bereich. „Die Entwicklungen der vergangenen zwei Jahre haben uns in dramatischer Weise die Verwundbarkeit unserer staatlichen, wirtschaftlichen und gesellschaftlichen Systeme vor Augen geführt“, so Erwin Hameseder, Präsident des Kompetenzzentrums Sicheres Österreich. Cyber-Resilienz, die Widerstandsfähigkeit der Geschäftsprozesse trotz widrigster Umstände sicher zu stellen, bleibt das große Ziel. „Zusammenarbeit und Informationsaustausch sind von entscheidender Bedeutung: Der Austausch über Angriffe muss ohne Scham und Grenzen intensiviert werden“, so die Studienautoren. Dafür müssen alle Unternehmen erkennen, dass eine gelebte Cyber Security-Kultur genauso wichtig ist wie die entsprechenden Technologien. 
+
+Weitere Ergebnisse der Studie: 
+•	67 % der Unternehmen wurden bereits Opfer einer Cyberattacke.
+•	20 % berichten, dass bei ihnen durch Cyberkriminelle ein finanzieller Schaden entstanden ist.
+•	51 % der Angriffe waren Phishingattacken.
+•	70 % wurden auf einen Cyberangriff durch eigene Mitarbeiter aufmerksam.
+•	71 % verzeichnen einen Anstieg des Cyber Security-Budgets.
+•	72 % davon geben neue Bedrohungen als Ursache für den Budgetanstieg an.
+•	65 % investieren nach einer Cyberattacke in zusätzliche Security-Tools.
+•	40 % beschäftigen 1-2 Mitarbeiter für Cyber Security.
+•	83 % vertrauen ihren Schutzmaßnahmen im Fall eines Angriffes.
+•	97 % binden externen Dienstleister in die technische Vorfallsbehandlung ein.
+•	59 % sagen, dass sich die Bedeutung von Cyber Security durch die Pandemie in ihrem Unternehmen verändert hat.
+
+_______________________________________
+Über die Studie
+Die Umfrage zur Studie „Cyber Security in Österreich“ wurde im Jänner und Februar 2022 von KPMG und dem KSÖ unter 550 österreichischen Unternehmen durchgeführt. Die Teilnehmer setzten sich aus kleinen und mittleren Unternehmen sowie Großunternehmen aus den Branchen Banken, Technologie, Medien & Telekommunikation, Öffentlicher Sektor, Industrie, Dienstleistung, Insurance, Energiewirtschaft, Bauwirtschaft & Immobilien, Healthcare, Automotive, Retail, Food & Drink, Education und Verkehr, Transport, Logistik zusammen. Jeder Teilnehmer erhielt, seiner Funktion im Unternehmen entsprechend, einen Online-Fragebogen mit spezifischen Fragen. Für die Befragung wurde zwischen Innensicht/ Leitungsebene (Experten, Bereichsleiter, CSO etc) und Außensicht/Steuerungsebene (Vorstand, Eigentümer, Aufsichtsrat) unterschieden. Die Ergebnisse wurden von einem KPMG Cyber Security-Expertenteam aus dem Bereich IT-Advisory ausgewertet.
+
+Über KPMG 
+Die Initialen von KPMG stehen für die Gründerväter der Gesellschaft: Klynveld, Peat, Marwick und Goerdeler. Als Verbund rechtlich selbstständiger, nationaler Mitgliedsfirmen ist KPMG International mit ca 236.000 Mitarbeitern in 145 Ländern eines der größten Wirtschaftsprüfungs- und Beratungsunternehmen weltweit.
+In Österreich ist KPMG eine der führenden Gruppen in diesem Geschäftsfeld und ist mit mehr als 1.800 Mitarbeitern an 8 Standorten präsent. Unsere Leistungen sind in die Geschäftsbereiche Prüfung (Audit) und Beratung (Tax, Law und Advisory) unterteilt. Im Mittelpunkt von Audit steht die Prüfung von Jahres- und Konzernabschlüssen. Tax steht für die steuerberatende¬ und Law für die rechtsberatende Tätigkeit von KPMG. Der Bereich Advisory bündelt das fachliche Know-how zu betriebswirtschaftlichen, regulatorischen und transaktionsorientierten Themen. 
+www.kpmg.at 
+
+
+Rückfragehinweis:
+KPMG Austria GmbH
+Gözde Yaylali
+Porzellangasse 51
+1090 Wien
+T +43 1 31332-3014
+gyaylali@kpmg.at 
+
+	
+
+© 2022 KPMG Austria GmbH Wirtschaftsprüfungs- und Steuerberatungsgesellschaft, eine österreichische Gesellschaft mit beschränkter Haftung und ein Mitglied der globalen KPMG Organisation unabhängiger Mitgliedsfirmen, die KPMG International Limited, einer private English company limited by guarantee, angeschlossen sind. Alle Rechte vorbehalten.
+
+

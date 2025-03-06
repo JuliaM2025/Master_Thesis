@@ -1,0 +1,33 @@
+KPMG Cloud-Monitor: ESG und KI im Fokus der Cloud-Strategien
+Wien (OTS) - 
+Cloud-Computing ist für Österreichs Unternehmen unverzichtbar geworden. Immer mehr ziehen sich sogar vollständig aus klassischen Rechenzentren zurück und setzen auf eine erklärte Cloud-Only-Strategie. Treibende Faktoren sind heuer Künstliche Intelligenz und ESG. Das zeigt die fünfte Ausgabe des KPMG Cloud-Monitors, für den 200 heimische Unternehmen befragt wurden.
+
+93 Prozent der befragten Unternehmen in Österreich nutzen Cloud-Computing. Die Zahlen sprechen für sich: Cloud ist längst keine Zukunftstechnologie mehr, sondern hat sich zur Norm entwickelt. „Nur eine flexible und skalierbare IT-Infrastruktur wird den aktuellen Anforderungen gerecht. Die Mehrheit nutzt dabei hybride Cloud-Modelle, bei denen Public- und Private-Cloud-Lösungen parallel eingesetzt werden“, fasst KPMG Partner Christian Frühwirth zusammen.
+
+Cloud-First weiterhin vorne
+Aktuell sind Cloud-First-Strategien in Österreich führend: 2024 setzt die Hälfte der Unternehmen (50 Prozent) neue Projekte zuerst in der Cloud um. Noch stärker auf die Cloud-Nutzung fokussieren sich Cloud-Only-Strategien. Diese sind darauf ausgerichtet, traditionelle IT bzw. Rechenzentren vollständig durch die Cloud abzulösen, und werden heute von circa einem Fünftel der österreichischen Unternehmen (22 Prozent) verfolgt.
+
+Topthemen ESG und KI als Antreiber
+Eine Mehrheit von 56 Prozent der Befragten stuft ESG-Themen im Rahmen der Cloud-Nutzung als wichtig oder sehr wichtig ein; der Fokus liegt dabei vor allem auf dem Umweltaspekt - dem „E“ in ESG: Unternehmen streben danach, ihre IT-Services ökologisch nachhaltiger zu gestalten und übertragen die Verantwortung für einen ressourcenschonenden Betrieb verstärkt auf ihre Cloud-Provider.
+
+Auch Künstliche Intelligenz hat sich zu einem unverzichtbaren Bestandteil moderner Unternehmensprozesse entwickelt. „Angesichts der laufenden Weiterentwicklung von KI-Modellen beobachten wir einen wachsenden Bedarf an Rechenkapazitäten - Public-Clouds werden damit immer wichtiger und bieten die erforderliche Rechenleistung und Skalierbarkeit für Machine Learning, Deep Learning und Large Language Models. All das führt zu einer intensiveren und vielfältigeren Nutzung der Cloud“, so Frühwirth.
+
+Weitere Ergebnisse im Überblick
+
+75 Prozent der Unternehmen haben zur Erfüllung der Anforderungen der EU-Direktive NIS2 zusätzlichen Investitionsbedarf in Cloud-Sicherheit erkannt.
+57 Prozent der Befragten nutzen die Cloud zur Steigerung des IT-Sicherheitslevels.
+Digitalisierung interner Prozesse (48 Prozent) sowie die Steigerung von Flexibilität und Skalierbarkeit (44 Prozent) sind weitere zentrale Motive für Unternehmen bei der Cloud-Transformation.
+Über die Studie
+Die Erhebung wurde im Zeitraum Juni bis Juli 2024 unter 200 österreichischen Unternehmen durchgeführt. Mittels computergestützten Web-Interviews (CAWI) wurden Führungspersonen oder Mitarbeitende aus den Abteilungen Engineering, DevOps bzw. IT/OT-Operations, FinOps bzw. Cloud-Financial-Management, Digitalisierung/Innovation, Sourcing, Finanzen bzw. IT-Controlling oder Procurement sowie Mitglieder der Geschäftsführung bzw. des Vorstands befragt.
+
+ 
+
+Weitere Informationen sowie Pressefotos zum Download finden Sie hier: KPMG Newsroom
+
+Rückfragen & Kontakt
+KPMG Austria GmbH
+Mag. Lisa Kannonier
+Telefon: +43 664 8213 664
+E-Mail: lkannonier@kpmg.at
+
+OTS-ORIGINALTEXT PRESSEAUSSENDUNG UNTER AUSSCHLIESSLICHER INHALTLICHER VERANTWORTUNG DES AUSSENDERS - WWW.OTS.AT | KPM

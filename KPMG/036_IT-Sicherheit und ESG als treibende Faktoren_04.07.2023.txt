@@ -1,0 +1,41 @@
+KPMG Cloud-Monitor: IT-Sicherheit und ESG als treibende Faktoren
+Cloud fast flächendeckend in Unternehmen angekommen
+
+Wien (OTS) - 
+Österreichische Unternehmen richten ihre Cloud-Strategien vermehrt nach den Topthemen Cybersecurity und Nachhaltigkeit aus. Diesen Trend zeigt die neue Ausgabe des KPMG Cloud-Monitor.
+
+Die Unternehmens-IT hat sich in den letzten Jahren drastisch gewandelt: Cloud-Computing ist heute fester Bestandteil österreichischer Unternehmen. Cloud-First- und Cloud-Only-Strategien dominieren 2023 das Feld und lassen darauf schließen, dass die Cloud in absehbarer Zeit traditionelle IT-Landschaften in weiten Teilen ersetzen wird. Zu diesen Ergebnissen kommt der KPMG Cloud-Monitor, für den heuer zum vierten Mal in Folge insgesamt 200 heimische Unternehmen befragt wurden.
+
+Cloud fast flächendeckend in Unternehmen angekommen
+93 Prozent der österreichischen Unternehmen mit mindestens 20 Beschäftigten nutzen im Jahr 2023 Cloud-Lösungen. Damit hat die Cloud-Nutzung im Vorjahresvergleich (71 Prozent) deutlich zugenommen und ist in faktisch allen Unternehmen angekommen. „Von einer aufstrebenden Technologie hat sich Cloud-Computing zu einer Standardlösung entwickelt. Cloud-First-Lösungen sind mittlerweile die Norm, 43 Prozent der Unternehmen verfolgen diese Strategie. Die Cloud-Only-Nutzung hat sich im Jahresvergleich von 7 auf 23 Prozentpunkte mehr als verdreifacht“, fasst KPMG Partner Michael Schirmbrand zusammen.
+
+Drängendstes Ziel: Steigerung der Cybersecurity
+Die Verbreitung von Cyberangriffen steigt und KI-Werkzeuge wie ChatGPT eröffnen Cyberkriminellen ungeahnte neue Wege, Einfallstore in Unternehmen zu finden. „Damit ist nicht länger Kostenreduktion der treibende Faktor für Cloud-Lösungen wie im Vorjahr, sondern die Optimierung der IT-Sicherheit: 57 Prozent der Unternehmen wollen mit ihrer Cloud-Strategie die Cybersecurity steigern und ihre Resilienz gegenüber derartigen Angriffen ausbauen“, weiß Christian Frühwirth, Director bei KPMG.
+
+Cloud-Computing als nachhaltige Zukunftstechnologie
+Auch das Topthema ESG spielt in puncto Cloud eine immer größere Rolle. Insbesondere Großunternehmen sehen sich zunehmend in der Pflicht, ESG-Ziele zu definieren und konkrete Maßnahmen zu ergreifen. „Cloud-Computing unterstützt das Erreichen von Nachhaltigkeitszielen gleich auf zwei Wegen: Zum einen sind Clouds im Vergleich zu traditionellen IT-Infrastrukturen deutlich ressourcenschonender und zum anderen erleichtert cloudbasiertes Reporting die Erhebung, Verwaltung und Analyse von ESG-Daten“, so Michael Schirmbrand. Die Studie zeigt: Für mehr als die Hälfte der Unternehmen (51 Prozent) ist Cloud-Computing heute unerlässlich, um die Energieeffizienz zu steigern bzw. den Energieverbrauch zu senken. Für 43 Prozent sind Cloud-Lösungen ein Must-have zur Verbesserung des ESG-Reportings.
+
+Luft nach oben im Deutschland-Vergleich
+„Dass Cloud-Computing eine Grundlage zukunftsfester IT-Infrastrukturen ist, haben Unternehmen erkannt – Ressentiments sind fast vollständig überwunden. Jetzt gilt es, das Potenzial von Cloud-Lösungen auszuschöpfen“, so die Studienautoren. Denn fest steht, im direkten Vergleich zum deutschen Nachbarmarkt schneiden österreichische Unternehmen beim Thema Cloud in einigen Punkten – wie z. B. bei der Anwendung von Public-Cloud-Services oder dem Einsatz von Cloud-First-Strategien – deutlich schlechter ab und zeigen Aufholbedarf für die nahe Zukunft.
+
+Weitere Ergebnisse der Studie
+• 42 Prozent planen, im Jahr 2026 mehr als sechs von zehn produktiven Anwendungen aus der Public-Cloud zu betreiben. Aktuell sind es 14 Prozent.
+• 57 Prozent der Unternehmen haben durch die Cloud-Nutzung IT-Kosten reduziert. Unternehmen mit Public-Cloud-Modellen berichten am häufigsten von Kosteneinsparungen.
+• 26 Prozent der Unternehmen konnten in den letzten 12 Monaten durch Sicherheitsmaßnahmen potenziell starke Störungen eines Ransomware-Angriffs verhindern.
+
+Über die Studie
+Die Erhebung wurde im Zeitraum April bis Mai 2023 unter 200 österreichischen Unternehmen durchgeführt. Mittels computergestützten Web-Interviews (CAWI) wurden Führungspersonen oder Mitarbeitende aus den Tätigkeitsfeldern Engineering, DevOps bzw. IT-/OT-Operations, FinOps bzw. Cloud-Financial-Management, Sourcing, Digitalisierung/Innovation, Finanzen bzw. IT-Controlling oder Procurement sowie Mitglieder der Geschäftsführung bzw. des Vorstands befragt.
+
+
+
+Weitere Informationen sowie die Studie und Fotomaterial zum Download finden Sie hier: KPMG Newsroom "KPMG Cloud-Monitor: IT-Sicherheit und ESG als treibende Faktoren"
+
+Rückfragen & Kontakt
+KPMG Austria GmbH
+Mag. Lisa Kannonier
+Porzellangasse 51
+1090 Wien
++43 664 8213 664
+lkannonier@kpmg.at
+
+OTS-ORIGINALTEXT PRESSEAUSSENDUNG UNTER AUSSCHLIESSLICHER INHALTLICHER VERANTWORTUNG DES AUSSENDERS - WWW.OTS.AT | KPM

@@ -1,0 +1,52 @@
+KPMG Cybersecurity-Studie zeigt: Keine Entspannung für heimische Unternehmen in Sicht – jeder sechste Cyberangriff ist erfolgreich
+Wien (OTS) - 
+Die Trefferquote der Angreifer:innen hat sich gegenüber dem Vorjahr alarmierend erhöht: Jeder sechste Cyberangriff führt zum Ziel, bei den Methoden haben sich Deepfakes mehr als verdoppelt. Das zeigt die mittlerweile neunte Ausgabe der Studie „Cybersecurity in Österreich“ von KPMG in Kooperation mit dem Sicherheitsforum Digitale Wirtschaft des Kompetenzzentrum Sicheres Österreich (KSÖ), für die 1.158 österreichische Unternehmen befragt wurden.
+
+
+54 Prozent der befragten Unternehmen waren in den letzten zwölf Monaten Opfer von Desinformationskampagnen, 42 Prozent sogar mehrmals.
+Die Top-3-Angriffsarten waren Phishingattacken (87 Prozent), Malware (86 Prozent) und CEO-/CFO-Fraud (80 Prozent).
+Bei 46 Prozent der Befragten gab es erfolgreiche Angriffe gegen die Lieferkette.
+Jedes dritte Unternehmen (33 Prozent) hat zumindest einmal die Lösegeldforderung im Zusammenhang mit einem Ransomwareangriff bezahlt.
+
+Fakt oder Fiktion: Was können wir glauben?
+Mit einer Zunahme von 119 Prozent haben sich Deepfakes in Österreich innerhalb nur eines Jahres mehr als verdoppelt. Können wir noch glauben, was wir sehen? Die Frage ist mittlerweile gelebter Alltag. KI beschleunigt neue Angriffsarten wie Deepfakes in Form von Sprach- und Videonachrichten rasant. „Wir haben im persönlichen Umgang miteinander ein durchaus verlässliches Sensorium dafür, Unwahrheiten zu erkennen. Im digitalen Raum fehlt uns dieses Gespür. Mit der Perfektionierung der Deepfake-Technologie wird ein neues Kapitel zur Verbreitung von Desinformation aufgeschlagen. Wir werden verwundbarer gegenüber derartigen Kampagnen, das beeinflusst nicht nur die Cybersicherheit, sondern unsere gesellschaftliche Resilienz“, beschreibt KPMG Partner Robert Lamprecht die aktuelle Entwicklung.
+
+Desinformation, mehr als ein gesellschaftspolitisches Werkzeug
+Von allen befragten Unternehmen waren 54 Prozent in den letzten zwölf Monaten Opfer von Desinformationskampagnen, 42 Prozent sogar mehrmals. Desinformationskampagnen werden immer häufiger als Ablenkungsmanöver eingesetzt, um die eigentlichen Cyberangriffe zu verschleiern. „Unternehmen werden – von den Angreifer:innen perfekt orchestriert – gezielt in eine Ausnahmesituation gebracht, die die volle Aufmerksamkeit der Mitarbeiter:innen und des Krisenmanagements erfordert, während im Hintergrund gänzlich unbemerkt der Cyberangriff stattfinden kann“, so Lamprecht.
+
+Anpassung als Erfolgsstrategie der Angreifer:innen
+War im Vorjahresvergleich noch jede zehnte Cyberattacke erfolgreich, ist es in diesem Jahr bereits jede sechste. Die Rechnung der Angreifer:innen geht auf, sie haben gelernt, sich ihrem Umfeld anzupassen. Neben Deepfake haben vor allem Insider Threat (um 29 Prozent) und Angriffe auf die Lieferkette (um 18 Prozent) zugenommen. Auch staatlich unterstützte Angriffe sind mit einem Anstieg von 12 Prozent häufiger zu verzeichnen, wie auch Social Engineering mit 9 Prozent Steigerung im Vergleich zum Vorjahr. „Auf der einen Seite sind Unternehmen zwar besser gewappnet in Sachen Cybersicherheit, gleichzeitig rüsten aber die Täter:innen nach und nehmen die gesetzten Maßnahmen genau ins Visier. Die Angreifer:innen agieren professioneller, ihre technischen Mittel werden effektiver. Etablierte Schutzmechanismen und Sensibilisierungsmaßnahmen verfehlen unter diesen neuen Umständen ihre Wirkung“, erläutert KPMG Partner Andreas Tomek. Auf den vorderen Plätzen der erfolgreich durchgeführten Angriffe bleiben dennoch weiterhin Phishingattacken mit 87 Prozent, dicht gefolgt von Malware (86 Prozent) und CEO-/CFO-Fraud (80 Prozent). 
+
+Wunder Punkt Lieferkette
+Als Eintrittstor für Cyberangriffe gerät auch die Lieferkette verstärkt in den Fokus der Angreifer:innen. Man verlagert das eigentliche Ziel, nämlich das Unternehmen, auf ein oftmals schwächeres Glied in der Kette, den Lieferanten. Die Sorge vor derartigen Angriffen spiegelt sich in den Zahlen wider: 66 Prozent der Befragten haben Bedenken, dass Cyberangriffe gegen ihre Dienstleister Auswirkungen auf sie selbst haben. Mit gutem Grund, denn bei 46 Prozent gab es erfolgreiche Angriffe gegen die Lieferkette.
+
+Zahlungsbereitschaft bei Lösegeld steigt alarmierend an
+Während im letzten Jahr noch Zurückhaltung bei Lösegeldzahlungen herrschte, hat sich das Bild heuer schlagartig verändert. Obwohl Ransomwareangriffe in den letzten 12 Monaten um mehr als ein Viertel (27 Prozent) zurückgegangen sind und damit nur noch 24 Prozent dieser Angriffe erfolgreich waren, zeigt sich: Jedes dritte Unternehmen (33 Prozent) hat zumindest einmal die Lösegeldforderung im Zusammenhang mit einem Ransomwareangriff bezahlt.
+
+Handlungsfähig in turbulenten Zeiten
+Eine Entspannung der Lage zeichnet sich vorerst nicht ab, das erkennt auch die Führungsebene: Für 33 Prozent der Aufsichtsrät:innen ist Cybersicherheit zu einem wichtigen Teil ihres Lebens geworden. „Für uns bedeuten diese Entwicklungen, weiterhin und noch stärker auf die Zusammenarbeit und den Erfahrungsaustausch der Stakeholder:innen zu setzen. Nur mit der gemeinsamen Anstrengung von Wirtschaft, Staat, Technologie und Forschung sowie der Zivilgesellschaft kann es uns gelingen, Österreich ein Stück weit sicherer zu machen“, so Michael Höllerer, Präsident des KSÖ, und weiter: „Wir sehen einen klaren Auftrag an den Wirtschaftsstandort Österreich, wie die Studie zeigt. 37 Prozent würden bevorzugt Security-Lösungen von heimischen Unternehmen einsetzen.“
+
+Unternehmen im Wettlauf mit den Cyberkriminellen
+Eine Prognose der Angriffsentwicklungen wird immer unberechenbarer. Das schlägt sich auf die Stimmung der befragten Teilnehmer:innen nieder, Erschöpfung macht sich breit. 29 Prozent hoffen, sich in den kommenden zwölf Monaten nicht mehr mit dem Thema Cybersicherheit beschäftigen zu müssen. Doch es ist alternativlos: Die Investition in Cybersicherheit ist längst überlebensnotwendig für Unternehmen. „Wir sind im Wettlauf mit den Angreifer:innen, deren Methoden sich auch in Zukunft permanent ändern werden. Die Kernfrage ist, ob wir beim Rennen um Cybersicherheit in der vorderen oder in der hinteren Gruppe sind, können wir die Angreifer:innen abhängen oder überholen sie uns. Unser Ziel muss sein, im Spitzenfeld zu bleiben“, so die Studienautoren.
+
+
+Weitere Ergebnisse der Studie
+
+Mit 63 Prozent waren die dominantesten psychischen Auswirkungen für diejenigen, die bei einem Cybersicherheitsvorfall involviert waren, Stress und Angst. Für 54 Prozent ist die Komplexität der Systemumgebung der belastendste Aspekt.
+Mehr als die Hälfte (56 Prozent) hatte bei der Bearbeitung eines Cybersicherheitsvorfalls Hilfe durch einen externen Dienstleister in Form eines Retainers, also einer vertraglichen Vereinbarung.
+45 Prozent sehen Datenschutzanforderungen als größtes Hindernis für den Einsatz von KI.
+22 Prozent der Unternehmen haben eine Cyberversicherung, 29 Prozent wünschen sich, dass diese Lösegeldforderungen abdeckt.
+
+Über die Studie
+Zum neunten Mal in Folge veröffentlicht KPMG gemeinsam mit dem Sicherheitsforum Digitale Wirtschaft des Kompetenzzentrum Sicheres Österreich (KSÖ) die Studie „Cybersecurity in Österreich“. Zahlreiche Interviews mit nationalen und internationalen Expert:innen sowie detaillierte Analysen zum aktuellen Lagebild in Österreich ergänzen die Publikation. Die Umfrage zur Studie wurde im Februar und März 2024 von KPMG unter 1.158 österreichischen Unternehmen durchgeführt. Die Teilnehmer:innen setzten sich aus Vertreter:innen kleiner und mittlerer Unternehmen sowie Großunternehmen aus den Branchen Automobilindustrie, Banken, Bauwirtschaft, Bildung, Chemiewirtschaft, Dienstleistungsbereich, Energiewirtschaft, Gesundheitswesen, Immobilienwirtschaft, Industrie, Konsumgüter, Lebensmittel, Öffentlicher Sektor, Technologie, Telekommunikation, Tourismus und Versicherungswirtschaft zusammen.
+
+Weitere Informationen sowie die Studie und Fotomaterial zum Download: KPMG Newsroom
+
+Rückfragen & Kontakt
+KPMG Austria GmbH
+Mag. Lisa Kannonier
+Porzellangasse 51, 1090 Wien
++43 664 8213 664
+lkannonier@kpmg.at
+
+OTS-ORIGINALTEXT PRESSEAUSSENDUNG UNTER AUSSCHLIESSLICHER INHALTLICHER VERANTWORTUNG DES AUSSENDERS - WWW.OTS.AT | KPM

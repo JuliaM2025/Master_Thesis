@@ -1,0 +1,44 @@
+KPMG Studie: Anzahl der Cyberattacken innerhalb eines Jahres verdreifacht
+Wien (OTS) - 
+In Zeiten multipler Krisen sind den Angreifer:innen Tür und Tor in die Systeme der Unternehmen geöffnet. Gegenüber dem Vorjahr haben Cyberangriffe um 201 Prozent zugenommen. Attackiert wurde jedes einzelne der 903 befragten Unternehmen. Das zeigt die KPMG Studie „Cybersecurity in Österreich 2023“.
+
+Zum achten Mal in Folge veröffentlicht KPMG gemeinsam mit dem Sicherheitsforum Digitale Wirtschaft des Kompetenzzentrum Sicheres Österreich (KSÖ) die Studie „Cybersecurity in Österreich“. Die Publikation wird ergänzt durch zahlreiche Interviews mit nationalen und internationalen Expert:innen sowie detaillierte Analysen zu Cyberbedrohungen, der aktuellen Fachkräftelage und zum Thema Ausbildung.
+
+Existenzbedrohung: Cyberangriffe
+Es gehört mittlerweile zur täglichen Routine, zu jeder Tages- und Nachtzeit an sieben Tagen die Woche – Phänomene wie Phishing sind gekommen, um zu bleiben: Alle 903 von KPMG befragten Unternehmen haben im vergangenen Jahr zumindest eine Attacke dieser Art erlebt. Dicht gefolgt von u. a. Business-E-Mail-Compromise und CEO Fraud (88 Prozent), Social Engineering (57 Prozent) und Angriffen auf die Lieferkette (39 Prozent). Der Outcome zeigt den Ernst der Lage: Jede zehnte dieser Cyberattacken (12 Prozent) war erfolgreich. „Die damit verbundenen Schäden können enorm sein, beinahe jedes siebte Unternehmen (14 Prozent) musste aufgrund eines Ransomware-Angriffs Betriebsunterbrechungen von mehr als vier Wochen in Kauf nehmen, ein Drittel der Unternehmen immerhin von rund einer Woche. Das kann eine klare Existenzbedrohung darstellen“, so KPMG Partner Andreas Tomek. Auch Angriffe auf die kritische Infrastruktur werden laufend zielgerichteter und komplexer. Krankenhäuser, Windparks zur Stromerzeugung, Supermärkte und Handelsketten, aber auch IT-Dienstleister sind immer häufiger von Ransomware-Attacken betroffen. 
+
+Hybride Bedrohungen vor der eigenen Haustüre
+Die Situation spitzt sich weiter zu. „War im letzten Jahr noch vorsichtiger Optimismus zu spüren, so haben uns die Entwicklungen der letzten Monate vor Augen geführt, dass wir von den Angreifer:innen abgehängt wurden. Auch hybride Bedrohungen durch den Einsatz verschiedener Methoden der Einflussnahme wie beispielsweise gezielte Desinformationskampagnen werden immer häufiger zur Realität“, beschreibt Robert Lamprecht, Director bei KPMG. Staatliche oder staatlich unterstützte Angriffe (Advanced Persistent Threats, APTs) werden für 72 Prozent der heimischen Unternehmen als besondere Herausforderung gesehen. Mehr als die Hälfte der befragten Unternehmen (63 Prozent) stuft Social Engineering über Scam-Calls, also Fake-Telefonanrufe, mittlerweile sogar als normales Tagesgeschäft ein. Befeuert hat diesen Negativtrend noch der Krieg in Europa: Jedes dritte Unternehmen (33 Prozent) hat bereits einen Zusammenhang zwischen dem russischen Angriffskrieg auf die Ukraine und Cyberangriffen auf das eigene Unternehmen festgestellt. Besorgniserregend ist dabei vor allem das zunehmende Interesse der Angreifer:innen an der kritischen Infrastruktur.
+
+Die Folge: Finanzielle Schäden in Millionenhöhe
+Nach einem Cyberangriff sind es neben Reputationsverlusten vor allem der betriebliche Stillstand und Kosten für die Aufarbeitung der Attacke, die den finanziellen Schaden in die Höhe treiben. Während Cyberangriffe für die Täter:innengruppen nach wie vor ein lukratives Geschäftsmodell und meist nur mit geringen Kosten verbunden sind, ist ein Cybervorfall für die betroffenen Unternehmen wesentlich kostenintensiver. Bei jedem zehnten Unternehmen (12 Prozent) beläuft sich der finanzielle Schaden auf über EUR 1 Mio. Knapp die Hälfte der Befragten erlitt immer noch einen Schaden von bis zu EUR 100.000.
+
+Mit Zusammenarbeit zu mehr Resilienz
+Um der Gefahr von Cyberangriffen nachhaltig entgegenwirken zu können, braucht es eine stärkere Zusammenarbeit zwischen den Unternehmen und öffentlichen Stellen, auch über die Landesgrenzen hinweg. 74 Prozent der Befragten hält eine verstärkte EU-weite Zusammenarbeit im Kampf gegen die Cyberkriminalität für essenziell. „Wir müssen und werden uns mit der Frage der digitalen Souveränität in Europa auseinandersetzen. Die Chancen für österreichische bzw. europäische Lösungen sind gerade beim Thema Cybersicherheit sehr groß. Die Anstrengung, hier gemeinsam tragfähige Wege und Lösungen zu finden, wird sich lohnen“, so Michael Höllerer, Präsident des Kompetenzzentrum Sicheres Österreich (KSÖ).
+
+Die gute Nachricht: Die Sensibilisierung durch die Vielzahl der Angriffe in den vergangenen Jahren hat schon jetzt dazu geführt, dass Unternehmen sich besser vorbereiten. Die technische Infrastruktur und Schutzmaßnahmen werden sukzessive ausgebaut. Letztlich schwingt das Pendel aber wieder zurück zum Menschen. „Der Mensch ist zwar Eintrittspunkt für viele Cyberangriffe, gleichzeitig aber auch einer der wirksamsten Sicherheitsfaktoren, wenn es um die Prävention und Erkennung von Vorfällen geht“, so die Studienautoren. „Es braucht eine gelebte Cybersecurity-Kultur in den Unternehmen. Denn fest steht: Cybersecurity ist längst kein Wettbewerbsvorteil oder notwendige Pflichterfüllung mehr, sondern überlebensnotwendig für Unternehmen.“
+
+Weitere Ergebnisse der Studie
+- 55 Prozent der Befragten sagen, dass Cyberangriffe ihre geschäftliche Existenz bedrohen.
+- 33 Prozent der befragten Unternehmen waren Opfer von Ransomware/Erpressung.
+- 22 Prozent waren in den letzten zwölf Monaten von Deep Fakes betroffen.
+- Jede:r dritte Befragte würde bevorzugt Security-Lösungen von österreichischen Unternehmen einsetzen.
+- 47 Prozent haben sich bereits mit dem Thema NIS2 beschäftigt.
+- Bei jedem:r Vierten ist es in privat genutzten sozialen Netzwerken zu Beeinflussungsversuchen gekommen, die auf das berufliche Umfeld abzielten.
+- 43 Prozent der befragten Unternehmen benötigen durchschnittlich 4 bis 6 Monate, um IT-Expert:innen einzustellen.
+- 63 Prozent der Unternehmen sind der Ansicht, dass die Cyberangriffe gegen ihr Unternehmen in den nächsten zwölf Monaten zunehmen werden.
+
+Alle Unterlagen sowie die Studie zum Download finden Sie hier: KPMG Studie "Cybersecurity in Österreich 2023"
+
+Über die Studie
+Die Umfrage zur Studie wurde im Februar und März 2023 von KPMG unter 903 österreichischen Unternehmen durchgeführt. Die Teilnehmer:innen setzten sich aus Vertreter:innen kleiner und mittlerer Unternehmen sowie Großunternehmen aus den Branchen Automobilindustrie, Banken, Bauwirtschaft, Bildung, Chemiewirtschaft, Dienstleistungsbereich, Energiewirtschaft, Gesundheitswesen, Immobilienwirtschaft, Industrie, Konsumgüter, Medien, Öffentlicher Sektor, Technologie, Telekommunikation, Tourismus und Versicherungswirtschaft zusammen. Jede:r Teilnehmer:in erhielt seiner:ihrer Funktion im Unternehmen entsprechend einen Online-Fragebogen mit spezifischen Fragen. Darüber hinaus wurden die quantitativen Fragen (Likert-Skala) um qualitative Aspekte erweitert, um den Teilnehmer:innen die Möglichkeit zu geben, weitere Eindrücke und Beobachtungen zu teilen oder um Antworten auch entsprechend zu kommentieren. Für die Auswertung wurde zwischen Innensicht/Leitungsebene (Expert:innen, Bereichsleiter:innen, CSO etc.) und Außensicht/Steuerungsebene (Vorständ:innen, Eigentümer:innen, Aufsichtsrät:innen) unterschieden. Die Ergebnisse wurden von einem KPMG Cybersecurity-Expert:innenteam aus dem Bereich IT Advisory ausgewertet. Weltweit verfügt KPMG über mehr als 9.300 Cybersecurity-Expert:innen, davon mehr als 50 in Österreich.
+
+Rückfragen & Kontakt
+KPMG Austria GmbH
+Lisa Kannonier
+Porzellangasse 51
+1090 Wien
++43 664 8213 664
+lkannonier@kpmg.at
+
+OTS-ORIGINALTEXT PRESSEAUSSENDUNG UNTER AUSSCHLIESSLICHER INHALTLICHER VERANTWORTUNG DES AUSSENDERS - WWW.OTS.AT | KPM
