@@ -1,0 +1,32 @@
+Preise für Wohnimmobilien deuten zu Jahresbeginn 2023 österreichweit auf Verlangsamung des seit zwei Jahren andauernden Preisauftriebs hin
+(13.02.2023, Wien)
+Die aktuelle Immobilienmarktanalyse der Oesterreichischen Nationalbank (OeNB) zeigt eine Verlangsamung des Preisanstiegs für Wohnimmobilien – der seit der zweiten Jahreshälfte 2020 bestehende Trend stark steigender Immobilienpreise hat sich im vierten Quartal 2022 erstmals eingedämmt. Der Immobilienpreisanstieg – gemessen als Veränderung zum Vorjahrsquartal – halbierte sich im vierten Quartal 2022 in Wien auf 4,8 % (nach 9,6 % im dritten Quartal) und im restlichen Bundesgebiet auf 5,6 % (nach 12,0 % im dritten Quartal).
+
+Der Anteil an verkauften Objekten (in Prozent der angebotenen Immobilien) war sowohl bei Häusern als auch bei Wohnungen im zweiten Halbjahr 2022 deutlich rückläufig. Nach einem leichten Plus von 0,3 % im dritten Quartal 2022 sanken die Immobilienpreise im Vergleich zum Vorquartal österreichweit im vierten Quartal 2022 um 2,0 %. Die Dynamik des Immobilienpreisanstiegs im Bundesgebiet ohne Wien reduzierte sich nach +4,0 % im dritten Quartal auf –1,6 % im vierten Quartal 2022.
+
+Entwicklung der Wohnimmobilienpreise in Österreich
+ 
+ 	Q4 22	Q3 22	Q2 22	Q1 22	Q4 21	Q3 21	Q2 21	Q1 21	2022	2021	2020
+ 
+Veränderung zum Vorjahr in %
+Österreich	5,2	10,8	13,1	12,3	12,6	10,4	11,7	12,3	10,3	11,8	7,0
+Österreich ohne Wien	5,6	12,0	13,2	12,9	13,9	10,6	12,8	14,9	10,8	12,8	7,5
+Wien	4,8	9,6	13,0	11,8	11,3	10,2	10,7	10,9	9,7	10,8	6,7
+ 
+Veränderung zum Vorquartal in %
+Österreich	-2,0	0,3	3,2	3,7	3,2	  2,4	2,4	3,9	x	x	x
+Österreich ohne Wien	 -1,6	4,0	3,0	3,7	4,4	  1,5	2,7	4,6	x	x	x
+Wien	-2,4	0,2	3,3	3,8	2,1	3,3	2,2	3,3	x	x	x
+ 
+Index (2000=100)
+Österreich	272,9	278,3	277,5	269,0	259,3	251,2	245,3	239,4	274,4	248,8	222,6
+Österreich ohne Wien	261,2	265,4	264,3	256,5	247,4	236,9	233,3	227,3	261,9	236,2	209,4
+Wien	312,6	320,4	319,9	309,6	298,4	292,2	283,0	276,8	315,6	287,6	259,6
+ 
+Quelle: Data Science Service GmbH (DSS), TU Wien, Prof. Feilmayr, OeNB.
+Anmerkung: x = keine Daten vorhanden
+OeNB-Fundamentalpreisindikator für Wohnimmobilien: geringere Abweichung der Preise von Fundamentalfaktoren im vierten Quartal 2022
+Der OeNB-Fundamentalpreisindikator für Wohnimmobilien in Österreich ist im vierten Quartal 2022 auf 34,2 % gesunken (von 37,3 % im dritten Quartal) und deutet damit darauf hin, dass die Risiken für die Finanzmarktstabilität, die sich aus dem Immobilienmarkt ergeben, nicht weiter steigen. Dies ist neben den gegenüber dem Vorquartal leicht gesunkenen Immobilienpreisen vor allem auf die hohe Inflation zurückzuführen, wodurch die realen Immobilienpreise sinken. Für Wien lag der Indikator bei 39,6 %, was einen Rückgang um 3,1 Prozentpunkte gegenüber dem Vorquartal bedeutet
+
+Konjunktur im Wohnbau kühlt sich ab
+Die starke Wohnbaukonjunktur der letzten Jahre klingt langsam ab. Die 2019 und 2020 verzeichnete Rekordanzahl an Wohnungsfertigstellungen wurde 2021 mit 71.200 Fertigstellungen nochmals übertroffen. Ab 2022 ist mit einer deutlich rückläufigen Anzahl an Fertigstellungen zu rechnen. Eine wesentliche Ursache für diese Abkühlung liegt im Überangebot an Wohnungen, das sich zuletzt aufgebaut hat und 2023 auf 50.000 Wohnungen steigen wird. Die Bauwirtschaft ist darüber hinaus von starken Anstiegen der Bau- und Grundstückskosten, steigenden Zinsen, der Verschärfung der Kreditvergaberichtlinien und sinkenden Realeinkommen betroffen.

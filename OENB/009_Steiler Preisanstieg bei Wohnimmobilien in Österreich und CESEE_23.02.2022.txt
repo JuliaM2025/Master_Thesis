@@ -1,0 +1,31 @@
+Steiler Preisanstieg bei Wohnimmobilien in Österreich und CESEE
+(23.02.2022, Wien)
+Der starke Aufwärtstrend bei den Wohnimmobilienpreisen hält unvermindert an – dies bestätigt auch die jüngste Immobilienmarktanalyse der Oesterreichischen Nationalbank (OeNB) für Österreich sowie für Zentral-, Ost- und Südosteuropa (CESEE). So wurden in Österreich im vierten Quartal 2021 weiterhin Preiszuwächse über der 10-Prozent-Marke verzeichnet – ein Trend, der seit fünf Quartalen anhält (jeweils im Vorjahresvergleich). Auch in CESEE blieben die Preisanstiege kräftig, sodass die Gesamtdynamik auf den Wohnimmobilienmärkten in manchen Ländern Anlass zur Sorge hinsichtlich Finanzstabilitätsrisiken gibt.
+
+Wohneigentum wird immer teurer – steiler Aufwärtstrend in ganz Österreich seit über einem Jahr ungebrochen
+Im vierten Quartal 2021 lag der Preisanstieg im Vergleich zum Vorjahr erneut über 10 % − sowohl in Wien (11,3 %) als auch im restlichen Bundesgebiet (13,9 %). Mit 12,6 % im gesamtösterreichischen Durchschnitt erreichte die Preissteigerung auf den heimischen Wohnimmobilienmärkten damit einen neuen Höhepunkt.
+
+Der OeNB-Fundamentalpreisindikator für Wohnimmobilien in Österreich verzeichnete den stärksten Anstieg seit Beginn der Zeitreihe im Jahr 1989 und erreichte im vierten Quartal 2021 einen Stand von 29,8 % − 7,6 Prozentpunkte über dem Wert des Vorquartals. Die vom Indikator angezeigte Abweichung von den Fundamentalfaktoren kam in Wien sogar auf 35,6 %, was einem Anstieg von 5,1 Prozentpunkten gegenüber dem dritten Quartal 2021 entspricht.
+
+Entwicklung der Wohnimmobilienpreise in Österreich
+ 
+ 	Q4 21	Q3 21	Q2 21	Q1 21	Q4 20	Q3 20	Q2 20	Q1 20	Q4 19	2021	2020	2019
+ 
+Veränderung zum Vorjahr in %
+Österreich	12,6	10,4	 11,7	 12,3	 10,0	 9,5	 5,2	 3,4	 3,0	11,8	7,0	3,9
+Österreich ohne Wien	13,9	10,6	 12,8	 14,9	 10,7	 9,7	 6,8	 2,8	 1,2	12,8	7,5	2,6
+Wien	11,3	10,2	 10,7	 10,9	 9,4	 9,4	 4,1	 3,9	 4,3	10,8	6,7	4,9
+ 
+Veränderung zum Vorquartal in %
+Österreich	3,2	  2,4	 2,4	 3,9	 1,3	 3,6	 3,0	 1,7	 0,8	  x	  x	  x
+Österreich ohne Wien	4,4	  1,5	 2,7	 4,6	 1,5	 3,5	 3,8	 1,5	 0,6	  x	  x	  x
+Wien	2,1	  3,3	 2,2	 3,3	 1,1	 3,7	 2,4	 1,9	 1,0	  x	  x	  x
+ 
+Index (2000=100)
+Österreich	259,3	 251,2	 245,3	 239,4	 230,4	 227,5	 219,5	 213,1	 209,5	 248,8	 222,6	 208,0
+Österreich ohne Wien	247,4	 236,9	 233,3	 227,3	 217,2	 214,1	 206,9	 199,3	 196,3	 236,2	 209,4	 194,8
+Wien	298,4	 292,2	 283,0	 276,8	 268,0	 265,1	 255,6	 249,5	 244,9	 287,6	 259,6	 243,2
+ 
+Quelle: Data Science Service GmbH (DSS), TU Wien, Prof. Feilmayr, OeNB.
+Wohnimmobilienpreise in Zentral-, Ost- und Südosteuropa stiegen noch schneller an als in der EU insgesamt
+In CESEE verzeichneten die Wohnimmobilienpreise im zweiten und dritten Quartal 2021 sehr hohe Wachstumsraten, die weiterhin über dem EU-Durchschnitt lagen. Diese Entwicklung war von mehreren Faktoren beeinflusst: Nachfrageseitig dürfte die allgemeine wirtschaftliche Erholung eine Schlüsselrolle in der im zweiten und dritten Quartal beobachteten Preisdynamik gespielt haben. Außerdem wurde die Nachfrage nach Wohneigentum durch (teils recht großzügige) staatliche Unterstützungsmaßnahmen zur Förderung des Wohnraumerwerbs in einigen CESEE-Ländern angekurbelt. Finanzierungsseitig begünstigten die niedrigen Zinssätze weiterhin das Wachstum der Wohnbaukredite. Zusätzlicher Preisdruck ging von steigenden Baukosten und allgemeinen Materialengpässen aus, die das Angebot an Neubauten einschränkten. Die Entwicklungen in den Wohnimmobilienmärkten geben in einigen CESEE-Ländern Anlass zur Sorge betreffend der Stabilität der dortigen Finanzmärkte.

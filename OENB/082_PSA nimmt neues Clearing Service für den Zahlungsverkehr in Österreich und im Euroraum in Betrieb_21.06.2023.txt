@@ -1,0 +1,25 @@
+PSA nimmt neues Clearing Service für den Zahlungsverkehr in Österreich und im Euroraum in Betrieb
+(21.06.2023, Wien)
+Die PSA Payment Services Austria GmbH (PSA) hat mit Montag, 12.06.2023, ihr neues Clearing Service zur Abwicklung von SEPA-Zahlungen innerhalb Österreichs und im Euroraum aufgenommen. Dies ist das Ergebnis eines gemeinsamen Projektes der Oesterreichischen Nationalbank (OeNB), der PSA und des technischen Dienstleisters Worldline, das die Modernisierung des Massenzahlungsverkehrs in Österreich zum Ziel hatte.
+
+Das vormals von der Geldservice Austria (GSA), einem Tochterunternehmen der OeNB, durchgeführte Clearinggeschäft für die österreichischen Banken wurde bereits Anfang 2021 von der PSA übernommen, wurde aber bisher noch über die bestehende Clearingplattform abgewickelt. Die Übernahme des Clearinggeschäfts von der GSA ergänzte das Produktportfolio der PSA, die als wichtiger Partner sowohl für die österreichischen Banken als auch für die OeNB fungiert. Die neue Rollenverteilung stellt sicher, dass die operativen Aufgaben im Rahmen des österreichischen Zahlungsverkehrs auch in Zukunft effektiv und effizient auf dem Markt erfüllt werden.
+
+Mit der Umstellung des Clearings auf die moderne Plattform des Zahlungsabwicklers Worldline konnte die PSA in enger Zusammenarbeit mit den österreichischen Banken und der OeNB das Gesamtprojekt nunmehr erfolgreich abschließen.
+
+PSA-Geschäftsführer David Ostah kommentiert die erfolgreiche technische Umstellung erfreut: „Gemeinsam mit unseren Kunden und der OeNB ist es uns gelungen, ein System zu bauen, das den ständig wachsenden Anforderungen im hochsicheren digitalen Zahlungsverkehr zu 100 % gerecht wird.“
+
+Auch Petia Niederländer, Direktorin der OeNB-Hauptabteilung Zahlungsverkehr, Risikoüberwachung und Finanzbildung, unterstreicht den wichtigen Schritt: „Die OeNB hat vor 12 Jahren das Clearing Service ins Leben gerufen und damit die Stabilität und Sicherheit des österreichischen Zahlungsverkehrs sichergestellt. Zudem fungierte die OeNB als Plattform für dessen Weiterentwicklung. Heute sind Kooperation und Innovation im Massenzahlungsverkehr relevanter als je zuvor. Wir freuen uns heute, dass durch die PSA-Übernahme ein starkes Commitment der Banken für die zukünftige Weiterentwicklung besiegelt wurde.“
+
+Patricia Battenberg, Chief Market Officer Central & Southern Europe, Financial Services bei Worldline fügt hinzu: „Als langjähriger Partner der PSA freuen wir uns, nun auch die österreichischen Interbankenzahlungen zu verarbeiten und somit die Zukunft des Zahlungsverkehrs in Österreich – ob karten- oder kontobasiert – gemeinsam mit der PSA gestalten zu dürfen.“.
+
+Über die PSA Payment Services Austria GmbH (PSA)
+PSA Payment Services Austria GmbH (PSA) ist der Smart Transactions-Provider und das österreichische Kompetenzzentrum für bargeldloses Bezahlen. PSA unterstützt Banken rund um die Uhr dabei, ihren Kunden sichere, schnelle und bequeme Transaktionen zu ermöglichen.
+
+PSA verarbeitet im Auftrag der Banken die Karten- und Clearinghouse Transaktionen (Konto zu Konto Überweisungen) und stellt Anbindungen zum internationalen Konto-Zahlungsverkehr zur Verfügung. Zu den Services zählen auch Angebote wie eps und Identitätslösungen. Im Rahmen von Normierung und Abstimmung präsentiert PSA die österreichische Stimme in europäischen Gremien.
+
+Zum Leistungsspektrum der PSA gehört auch die laufende Entwicklung kreativer Lösungen und innovativer Produkte für Konto und Karte.  www.psa.at www.ich.app
+
+Über die Oesterreichische Nationalbank (OeNB)
+Die Oesterreichische Nationalbank (OeNB) ist die Zentralbank der Republik Österreich und integraler Bestandteil des Eurosystems. Als solcher nimmt die OeNB eine breite Palette an Aufgaben und Verantwortungen wahr, wie etwa die Mitarbeit bei internationalen Organisationen sowie die Bereitstellung umfassender Informationsdienst-leistungen für die allgemeine Bevölkerung.
+
+Zu den Kernaufgaben der OeNB zählt auch die Sicherstellung des Zahlungsverkehrs, wobei dem effizienten und reibungsfreien Funktionieren der Zahlungsverkehrssysteme oberste Priorität eingeräumt wird. Dies ist zur Stärkung des Vertrauens in den österreichischen Finanzmarkt unabdingbar. Auf europäischer Ebene werden Zahlungsverkehrssysteme vom Eurosystem bereitgestellt: Über TARGET Services wird der bargeldlose Zahlungsverkehr rasch und sicher abgewickelt.

@@ -1,0 +1,49 @@
+Rekordjahresergebnis 2022 der österreichischen Banken in einem angespannten Umfeld
+(05.04.2023, Wien)
+Das aggregierte Jahresergebnis der österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute beläuft sich für das Geschäftsjahr 2022 auf 10,2 Mrd EUR und übersteigt somit das bereits sehr gute Ergebnis des Vorjahres um 66,9 %. Die dafür maßgeblichen Zuwächse beim Zinsergebnis und beim Provisionsergebnis sind jedoch im Kontext einer eingetrübten Konjunktur, einer hohen Inflation und einer entsprechend restriktiven Geldpolitik zu sehen. Der außergewöhnlich hohe Anstieg um 4,1 Mrd EUR relativiert sich zudem, da als Folge der russischen Invasion die Realisierbarkeit der Gewinne von Tochterbanken in Belarus und Russland aktuell eingeschränkt ist.
+
+Die aggregierten Betriebserträge lagen im Jahr 2022 um 5,8 Mrd EUR bzw. 22,5 % über dem Vorjahreswert. Positiv auf die Betriebserträge wirkte sich sowohl der Anstieg beim Zinsergebnis (+3,6 Mrd EUR) als auch der Anstieg beim Provisionsergebnis (+2,1 Mrd EUR) aus. Die gute Entwicklung beim Zinsergebnis ist dabei vorrangig auf das veränderte Zinsumfeld und auf ein gestiegenes Forderungsvolumen zurückzuführen.
+
+Das aggregierte Betriebsergebnis ist im Vergleich zum Vorjahr um 3,8 Mrd EUR bzw. 42,6 % gestiegen. Diese Entwicklung ist in erster Linie auf den Anstieg bei den aggregierten Betriebserträgen zurückzuführen. Negativ auf das Betriebsergebnis hat sich hingegen der Anstieg bei den Abschreibungen und Wertminderungen von immateriellen Vermögenswerten, Sachanlagen und Beteiligungen um 1,3 Mrd EUR ausgewirkt.
+
+Insgesamt wurde ein Wachstum von 66,9 % beim aggregierten Jahresergebnis nach Steuern und Minderheitenanteilen auf 10,2 Mrd EUR verzeichnet. Für diese Entwicklung ist – neben den gestiegenen Betriebserträgen – der Anstieg beim Gesamtergebnis aus aufgegebenen Geschäftsbereichen nach Steuern (+1,0 Mrd EUR) hauptverantwortlich. Darüber hinaus trägt der Zuwachs beim Gewinn aus nicht voll- oder quotenkonsolidierten Tochterunternehmen (+811 Mio EUR) wesentlich zur Verbesserung des Jahresergebnisses bei. Der Anstieg bei den Wertminderungen und Rückstellungen für das Kreditrisiko (+1,1 Mrd EUR) wirkt sich demgegenüber negativ auf das Jahresergebnis aus.
+
+All diese Entwicklungen sind zudem im Kontext einer eingetrübten Konjunktur, einer hohen Inflation und der entsprechend entschlossenen restriktiven Geldpolitik zu sehen sowie einer eingeschränkten Realisierbarkeit regionaler Gewinne in Belarus und Russland aufgrund der Folgen der russischen Invasion.
+
+Aggregierte Ertragslage der österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute
+ 
+ 	2022	2021	Differenz
+in Mio EUR	in Mio EUR	absolut	relativ1
+ 
+ 	Zinsergebnis	19.299	15.659	3.641	 23,3 %
++	Provisionsergebnis	10.097	 8.042	 2.055	 25,6 %
+–	Auf Anforderung rückzahlbare Aufwendungen für Aktienkapital	0	 0	 	 
++	Dividendenerträge	 568	 651	 –84	 –12,8 %
++	Handelserfolg und sonstige Bewertungsergebnisse	 845	 666	 180	 27,0 %
++	Sonstiges betriebliches Ergebnis	 796	 788	  8	 1,0 %
+ 
+=	Betriebserträge	 31.605	 25.805	 5.800	 22,5 %
+ 
+−	Verwaltungs- und sonstige Aufwendungen	 15.298	 14.684	   614	  4,2 %
+−	Abschreibungen und Wertminderungen von immateriellen Vermögenswerten, Sachanlagen und Beteiligungen	 3.438	 2.099	   1.339	 63,8 %
+ 
+=	Betriebsergebnis	 12.869	 9.022	  3.847	 42,6 %
+ 
+−	Wertminderungen/Wertaufholungen und Rückstellungen für das Kreditrisiko	 2.171	 1.090	   1.082	 99,2 %
+–	Sonstige Rückstellungen	 489	 322	   166	 51,6 %
++	Gewinn/Verlust aus nicht voll- oder quotenkonsolidierten Tochterunternehmen	 2.140	 1.329	  811	 61,0 %
++	Gewinn/Verlust aus zur Veräußerung eingestuften  Vermögenswerten aus fortgeführten Geschäftsbereichen	 –10	 –8	  –2	 R
++	Sonstiges Ergebnis	 –86	 55	 –141	 R
+ 
+=	Periodenergebnis vor Steuern und Minderheitenanteilen	 12.252	 8.986	 3.266	 36,3 %
+ 
+−	Ertragssteuern	 2.069	 1.663	  406	 24,4 %
++	Außerordentlicher Gewinn/Verlust	 209	 –7	   216	 A
++	Gesamtergebnis aus aufgegebenen Geschäftsbereichen nach Steuern	 451	 –589	  1.040	 A
+−	Den Minderheitenanteilen zurechenbar	 688	 642	 46	 7,2 %
+ 
+=	Periodenergebnis nach Steuern und Minderheitenanteilen	 10.156	 6.085	  4.070	 66,9 %
+ 
+Quelle: OeNB.
+1 Die prozentuelle Veränderung in einer Position wird nur dargestellt, wenn zu beiden Meldeterminen positive Werte gemeldet werden. In allen anderen Fällen symbolisiert "A" einen Anstieg und "R" einen Rückgang
+Datenstand: 24.03.2023

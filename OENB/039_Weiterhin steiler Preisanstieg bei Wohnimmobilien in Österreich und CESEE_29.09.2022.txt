@@ -1,0 +1,33 @@
+Weiterhin steiler Preisanstieg bei Wohnimmobilien in Österreich und CESEE
+(29.09.2022, Wien)
+Der steile Aufwärtstrend bei Wohnimmobilienpreisen in Österreich setzte sich in der ersten Jahreshälfte 2022 fort. In Zentral-, Ost- und Südosteuropa (CESEE) zogen die Wohnungspreise Ende 2021und Anfang 2022 ebenfalls wieder kräftig an, woraus sich auch wachsende Risiken für die Finanzstabilität ergeben, wie die jüngste Immobilienmarktanalyse der Oesterreichischen Nationalbank (OeNB) zeigt.
+
+Wachstum der Wohnungspreise weiterhin im zweistelligen Bereich
+Sowohl in Wien als auch im restlichen Bundesgebiet waren bei Wohnimmobilien bereits das siebte Quartal in Folge Preiszuwächse über der 10-Prozent-Marke im Vorjahresvergleich zu verzeichnen. Konkret lagen diese im zweiten Quartal 2022 bei jeweils rund 13 %, womit das Wachstum der Wohnimmobilienpreise für Österreich insgesamt einen neuen Höchststand erreichte (13,1 % im Vorjahresvergleich gegenüber 12,3 % zu Beginn des Jahres; siehe Tabelle 1).
+
+Entwicklung der Wohnimmobilienpreise in Österreich
+ 
+ 	Q2 22	Q1 22	Q4 21	Q3 21	Q2 21	Q1 21	Q4 20	Q3 20	Q2 20	Q1 20	2021	2020
+ 
+Veränderung zum Vorjahr in %
+Österreich	 13,1	12,3	12,6	10,4	 11,7	 12,3	 10,0	 9,5	 5,2	 3,4	11,8	7,0
+Österreich ohne Wien	 13,2	12,9	13,9	10,6	 12,8	 14,9	 10,7	 9,7	 6,8	 2,8	12,8	7,5
+Wien	 13,0	11,8	11,3	10,2	 10,7	 10,9	 9,4	 9,4	 4,1	 3,9	10,8	6,7
+ 
+Veränderung zum Vorquartal in %
+Österreich	 3,2	3,7	3,2	  2,4	 2,4	 3,9	 1,3	 3,6	 3,0	 1,7	  x	  x
+Österreich ohne Wien	 3,0	3,7	4,4	  1,5	 2,7	 4,6	 1,5	 3,5	 3,8	 1,5	  x	  x
+Wien	 3,3	3,8	2,1	  3,3	 2,2	 3,3	 1,1	 3,7	 2,4	 1,9	  x	  x
+ 
+Index (2000=100)
+Österreich	 277,5	269,0	259,3	 251,2	 245,3	 239,4	 230,4	 227,5	 219,5	 213,1	 248,8	 222,6
+Österreich ohne Wien	 264,3	256,5	247,4	 236,9	 233,3	 227,3	 217,2	 214,1	 206,9	 199,3	 236,2	 209,4
+Wien	 319,9	309,6	298,4	 292,2	 283,0	 276,8	 268,0	 265,1	 255,6	 249,5	 287,6	 259,6
+ 
+Quelle: Data Science Service GmbH (DSS), TU Wien, Prof. Feilmayr, OeNB.
+Preisanstieg für Wohnimmobilien in CESEE beschleunigt sich weiter – schwierige Zeiten auf Wohnimmobilienmärkten
+Die Wohnungsmärkte in Zentral-, Ost- und Südosteuropa (CESEE) verzeichneten trotz der COVID-19-Pandemie ein auffallend hohes Preiswachstum Ende 2021 und Anfang 2022. Der Krieg in der Ukraine bringt nun neue Herausforderungen für die CESEE-Wohnimmobilienmärkte. Vor dem Hintergrund der anhaltend starken Zunahme der Preise für Wohnimmobilien, der Wohnbaukredite und der Verschuldung privater Haushalte steigen auch die Risiken für die Finanzstabilität.
+
+Es ist davon auszugehen, dass die hohen Inflationsraten und die steigenden Zinsen die finanzielle Situation privater Haushalte verschärfen könnten. Der starke Preisauftrieb verringert die Kaufkraft privater Haushalte, wodurch es ihnen erschwert werden könnte, ihre Wohnbaukredite zurückzuzahlen. Dem stehen steigende Zinsen gegenüber, die nicht nur die Nachfrage nach neuen Krediten beeinflussen, sondern es privaten Haushalten auch schwerer machen dürften, laufende Kredite zu bedienen, wenn diese variabel verzinst sind.
+
+Wegen explodierender Baukosten sowie dem Mangel an Arbeitskräften und Baumaterialien bleibt das Angebot auf dem Wohnimmobilienmarkt in CESEE weiterhin hinter der Nachfrage zurück. Diese Lücke zu schließen, wird zunehmend zu einer Herausforderung.

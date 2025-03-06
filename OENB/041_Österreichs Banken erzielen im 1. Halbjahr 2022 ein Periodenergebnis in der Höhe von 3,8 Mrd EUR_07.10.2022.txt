@@ -1,0 +1,50 @@
+Österreichs Banken erzielen im 1. Halbjahr 2022 ein Periodenergebnis in der Höhe von 3,8 Mrd EUR
+(07.10.2022, Wien)
+Die österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute erzielten im 1. Halbjahr 2022 ein Periodenergebnis in der Höhe von 3,8 Mrd EUR. Somit befindet sich das Halbjahresergebnis 2022 annähernd auf demselben Niveau wie im Vorjahr (1. Halbjahr 2021: 3,7 Mrd EUR). Wesentlich beeinflusst wurde das Periodenergebnis von der positiven Entwicklung des Zinsergebnisses, des Provisionsergebnisses sowie von Sondereffekten. Aktuell profitieren die Banken noch vom guten konjunkturellen Umfeld im 1. HJ 2022 sowie vom inflationsbedingten Zinsanstieg und der hohen nominellen Kreditnachfragen. Allerdings könnten sich die eintrübende Konjunktur, die negativen Auswirkungen der Inflation sowie die Folgen der russischen Invasion auf die künftige Ertragslage der Banken auswirken.
+
+Die aggregierten Betriebserträge lagen im 1. Halbjahr 2022 um 1,5 Mrd EUR bzw. 12,1% über dem Vorjahreswert. Positiv auf die Betriebserträge wirkten sich sowohl der Anstieg beim Zinsergebnis (+912 Mio EUR) als auch der Anstieg beim Provisionsergebnis (+845 Mio EUR) aus. Die positive Entwicklung beim Zinsergebnis ist dabei vorrangig auf das gestiegene Zinsniveau in für den österreichischen Bankensektor wichtigen CESEE-Ländern zurückzuführen.
+
+Das aggregierte Betriebsergebnis ist um 816 Mio EUR bzw. 16,5% gesunken. Dies ist in erster Linie auf den Anstieg bei den Abschreibungen und Wertminderungen von immateriellen Vermögenswerten, Sachanlagen und Beteiligungen um 1,8 Mrd EUR zurückzuführen.
+
+Insgesamt wurde ein Anstieg beim aggregierten Periodenergebnis nach Steuern und Minderheitenanteilen um 95 Mio EUR bzw. 2,5% verzeichnet. Für diese Entwicklung sind der Anstieg beim außerordentlichen Gewinn (+363 Mio EUR) sowie der Anstieg beim Gesamtergebnis aus aufgegebenen Geschäftsbereichen (+452 Mio EUR) hauptverantwortlich.
+ 
+
+Hinweis:
+Aufgrund einer wesentlichen Datenkorrektur infolge der Jahresabschlussprüfung, wurden die zugrundeliegenden Datenbereiche für die Meldestichtage 2021-Q4 und 2022-Q1 aktualisiert. Das aggregierte Jahresergebnis nach Steuern und Minderheitenanteilen des Jahres 2021 der österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute ändert sich durch diese Korrektur von 7,2 Mrd EUR auf 6,1 Mrd EUR.
+
+Aggregierte Ertragslage der österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute
+ 
+ 	2022 Q2	2021 Q2	Differenz
+in Mio EUR	in Mio EUR	absolut	relativ1
+ 
+ 	Zinsergebnis	 8.725	 7.814	 912	 11,7 %
++	Provisionsergebnis	4.703	 3.858	 845	 21,9 %
++	Dividendenerträge	 271	 235	 36	 15,3 %
++	Handelserfolg und sonstige Bewertungsergebnisse	 200	 419	 -218	 -52,1 %
++	Sonstiges betriebliches Ergebnis	 432	 457	 -25	 -5,5 %
+ 
+=	Betriebserträge	 14.332	 12.783	 1.550	 12,1 %
+ 
+−	Verwaltungs- und sonstige Aufwendungen	 7.765	 7.205	   561	  7,8 %
+−	Abschreibungen und Wertminderungen von immateriellen Vermögenswerten, Sachanlagen und Beteiligungen	 2.454	 649	   1.805	 278,1 %
+ 
+=	Betriebsergebnis	 4.113	 4.929	  -816	 -16,5 %
+ 
+−	Wertminderungen/Wertaufholungen und Rückstellungen für das Kreditrisiko	 648	 313	   334	 106,7 %
+–	Sonstige Rückstellungen	 60	 97	   -37	 -38,1 %
++	Gewinn/Verlust aus nicht voll- oder quotenkonsolidierten Tochterunternehmen	 848	 570	  278	 48,8 %
++	Gewinn/Verlust aus zur Veräußerung eingestuften  Vermögenswerten aus fortgeführten Geschäftsbereichen	 9	 -5	  14	 A
++	Sonstiges Ergebnis	 -49	 −131	 82	 A
+ 
+=	Periodenergebnis vor Steuern und Minderheitenanteilen	 4.214	 4.952	 -739	 -14,9 %
+ 
+−	Ertragssteuern	 1.008	 906	  103	 11,3 %
++	Außerordentlicher Gewinn/Verlust	 373	 11	   363	 > 500 %
++	Gesamtergebnis aus aufgegebenen Geschäftsbereichen nach Steuern	 454	 1	   452	 > 500 %
+−	Den Minderheitenanteilen zurechenbar	 191	 312	 -121	 -38,8 %
+ 
+=	Periodenergebnis nach Steuern und Minderheitenanteilen	 3.841	 3.746	  95	 2,5 %
+ 
+Quelle: OeNB.
+1 Die prozentuelle Veränderung in einer Position wird nur dargestellt, wenn zu beiden Meldeterminen positive Werte gemeldet werden. In allen anderen Fällen symbolisiert "A" einen Anstieg und "R" einen Rückgang
+Datenstand: 20.09.2022

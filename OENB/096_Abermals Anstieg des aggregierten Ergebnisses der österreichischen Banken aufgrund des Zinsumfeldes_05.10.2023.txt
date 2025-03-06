@@ -1,0 +1,48 @@
+Abermals Anstieg des aggregierten Ergebnisses der österreichischen Banken aufgrund des Zinsumfeldes
+(05.10.2023, Wien)
+Das aggregierte Periodenergebnis der österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute beläuft sich für das 1. Halbjahr 2023 auf 7,3 Mrd EUR, was einer Verdoppelung des Halbjahresergebnisses aus dem Vorjahr entspricht. Hauptverantwortlich für diese Entwicklung war der Anstieg beim Zinsergebnis um 3,6 Mrd EUR.
+
+Die aggregierten Betriebserträge lagen im 1. Halbjahr 2023 um 4,0 Mrd EUR bzw. 27,9 % über dem Vorjahreswert. Für diese Entwicklung ist fast ausschließlich der Anstieg beim Zinsergebnis (+3,6 Mrd EUR bzw. +40,8 %) verantwortlich, welcher wiederum hauptsächlich auf das veränderte Zinsumfeld zurückzuführen ist.
+
+Das aggregierte Betriebsergebnis ist im Vergleich zum Vorjahr um 5,3 Mrd EUR bzw. 138,7 % gestiegen. Für diese Entwicklung ist – neben dem Anstieg bei den aggregierten Betriebserträgen – hauptsächlich der Rückgang bei den Abschreibungen und Wertminderungen von immateriellen Vermögenswerten, Sachanlagen und Beteiligungen i.H.v 2,0 Mrd EUR verantwortlich. Der starke Rückgang zum Vorjahresvergleichswert ist dabei – vor dem Hintergrund des Krieges in der Ukraine – auf außergewöhnlich hohe Wertminderungen von Beteiligungen im Jahr 2022 zurückzuführen.
+
+Insgesamt wurde beim aggregierten Periodenergebnis nach Steuern und Minderheitenanteilen ein Wachstum von 105,4 % auf 7,3 Mrd EUR verzeichnet. Für diese Entwicklung ist hauptsächlich das gestiegene Betriebsergebnis verantwortlich. Darüber hinaus wirkte sich der Anstieg beim Gewinn aus nicht voll- oder quotenkonsolidierten Tochterunternehmen (+273 Mio EUR) positiv auf das Halbjahresergebnis aus.
+
+Die beschriebenen Entwicklungen und das Rekordergebnis für das 1. Halbjahr 2023 sind allerdings vor dem Hintergrund eines eingetrübten wirtschaftlichen Umfelds zu sehen - typischerweise reagieren Kreditausfälle erst zu einem späteren Zeitpunkt, während die positiven Effekte der Zinswende sofort zum Tragen gekommen sind. Vize-Gouverneur Gottfried Haber empfiehlt daher: „Die aktuell sehr gute Ertragslage sollte von den Banken zum Aufbau von Risikopuffern genutzt werden. Vorausschauende Risikovorsorgen und eine weitere Stärkung der Kapitalbasis schaffen Raum für künftige Kreditvergaben auch in wirtschaftlich schwierigen Zeiten“.
+
+Aggregierte Ertragslage der österreichischen Kreditinstitutsgruppen und Einzelkreditinstitute
+ 
+ 	1. HJ 2023	1. HJ 2022	Differenz
+in Mio EUR	in Mio EUR	absolut	relativ1
+ 
+ 	Zinsergebnis	12.302	8.738	3.564	 40,8 %
++	Provisionsergebnis	4.848	 4.703	 145	 3,1 %
++	Dividendenerträge	345	271	74	 27,3 %
++	Handelserfolg und sonstige Bewertungsergebnisse	323	200	123	 61,2 %
++	Sonstiges betriebliches Ergebnis	531	432	99	22,9 %
+ 
+=	Betriebserträge	18.349	14.345	4.004	 27,9 %
+ 
+−	Verwaltungs- und sonstige Aufwendungen	 8.511	7.765	  746	 9,6 %
+−	Abschreibungen und Wertminderungen von immateriellen Vermögenswerten, Sachanlagen und Beteiligungen	 707	 2.755	  2.048	 74,3 %
+ 
+=	Betriebsergebnis	 9.132	 3.825	  5.306	 138,7 %
+ 
+−	Wertminderungen/Wertaufholungen und Rückstellungen für das Kreditrisiko	 399	 648	  248	 38,3 %
+–	Sonstige Rückstellungen	 398	 60	  338	 > 500 %
++	Gewinn/Verlust aus nicht voll- oder quotenkonsolidierten Tochterunternehmen	 1.121	 848	  273	 32,2 %
++	Gewinn/Verlust aus zur Veräußerung eingestuften  Vermögenswerten aus fortgeführten Geschäftsbereichen	 –2	 9	  –11	 R
++	Sonstiges Ergebnis	 –28	 –49	 20	 A
+ 
+=	Periodenergebnis vor Steuern und Minderheitenanteilen	 9.425	 3.926	 5.499	 140,1 %
+ 
+−	Ertragssteuern	 1.519	 1.011	  508	 50,2 %
++	Außerordentlicher Gewinn/Verlust	 8	 373	  –365	 97,8 %
++	Gesamtergebnis aus aufgegebenen Geschäftsbereichen nach Steuern	 0	 454	 –454	 100,0 %
+−	Den Minderheitenanteilen zurechenbar	 628	 193	 434	 224,9 %
+ 
+=	Periodenergebnis nach Steuern und Minderheitenanteilen	 7.287	 3.548	  3.738	 105,4 %
+ 
+Quelle: OeNB.
+1 Die prozentuelle Veränderung in einer Position wird nur dargestellt, wenn zu beiden Meldeterminen positive Werte gemeldet werden. In allen anderen Fällen symbolisiert "A" einen Anstieg und "R" einen Rückgang
+Datenstand: 19.09.2023
